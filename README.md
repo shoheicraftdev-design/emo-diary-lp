@@ -1,6 +1,6 @@
-# エモ日 — 製品LP
+# えも日 — 製品LP
 
-iPhone アプリ「エモ日 (EmoDiary)」の製品紹介ページ。GitHub Pages で公開している。
+iPhone アプリ「えも日 (EmoDiary)」の製品紹介ページ。GitHub Pages で公開している。
 
 - 公開URL: https://shoheicraftdev-design.github.io/emo-diary-lp/
 - App Store: https://apps.apple.com/jp/app/id6790214623
